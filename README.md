@@ -1,3 +1,16 @@
+#AlgebraCook
+## Laravel prijekt za vježbu
+
+### Funkcionalnosti
+	- ispis svih recepata
+	- ispispojedinačnog recepta
+	
+	- izrada novog recepta za prijavljenog korisnika
+	- uređivanje postojećeg recepta za prijavljenog korisnika
+	- brisanje postojećeg recepta za prijavljenog korisnika
+
+
+
 ## Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
