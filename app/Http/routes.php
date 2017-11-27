@@ -26,7 +26,7 @@ Route::get('/', function () {
 Route::get('/home', function () {
     return redirect('/recipes');
 });
-Route::get('/predavanje', 'RecipesController@zadnjePredavanje');
+Route::get('/zadnje', 'ZadnjePredavanje@zadnje');
 
 Route::get('/sastojci', 'RecipesController@viewSastojci');
 Route::get('/recipes', 'RecipesController@index'); // prilaz svih recepata (popis)
